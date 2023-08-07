@@ -1,0 +1,14 @@
+{
+  "name": "galaxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lil-gui": "^0.18.2",
+    "screenfull": "^6.0.2",
+    "three": "^0.154.0"
+  },
+  "devDependencies": {
+    "vite": "^4.4.6"
+  }
+}
